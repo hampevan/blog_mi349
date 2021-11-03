@@ -1,0 +1,59 @@
+html{
+    background: #c5c5c5;
+}
+
+body { 
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+    color: #000000;
+    border-top: 10px solid #242424;
+    background-color: #c5c5c5;
+}
+
+h1 {
+    font-size: 3em;
+    margin: 0;
+}
+
+p {
+    line-height: 2em;
+    margin-left: 20px;
+}
+
+#blog {
+    border-top: 3px dotted rgb(252, 120, 133);
+    background-color: #eac8fa;
+}
+
+.blog-post {
+    border-bottom: 3px dotted rgb(252, 120, 133);
+}
+
+nav {
+    font-size: x-large;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+    background-color:#c5c5c5;
+}
+
+.author {
+        font-size: 1.2em;
+}
+
+table { 
+    margin-left: 20px;
+}
+
+.about-img {
+    float: left;
+}
+
+.about-me   {
+    position: relative;
+    left: 15px;
+}
+
+section {
+    display: flex;
+}
